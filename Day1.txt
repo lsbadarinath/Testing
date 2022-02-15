@@ -7,6 +7,10 @@ Agenda
 3) Client Server architecture
 4) What is API & Webservice
 ---------------------
+1) What is Client & Server?
+2) 3 Layers of Application
+3) Client Server architecture
+4) What is API & Webservice
 
 Basic concepts of API & webservices...
 
@@ -29,7 +33,8 @@ Client/Server architecture
 
 API & Webservices
 ---------------------
-
+API --> Application Programming Interface (Its not a webservice)
+Webservices --> also a kind of API's available on webservers, we need to access them by using URL. 
 API --> Application Programming Interface (Its not a webservice)
 Webservices --> also a kind of API's available on webservers, we need to access them by using URL. 
 
@@ -38,7 +43,9 @@ Web services
 1) SOAP ---> First, older  XML
 2) Rest --> More popular   JSON,XML,HTML
 
-
+1) Basic concepts (Theory)
+2) Postman (Rest & SOAP)
+3) SOAPUI (SOAP & Rest)
 1) Basic concepts (Theory)
 2) Postman (Rest & SOAP)
 3) SOAPUI (SOAP & Rest)
