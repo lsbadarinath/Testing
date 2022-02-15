@@ -27,6 +27,10 @@ Client/Server architecture
 2- tier ( PL, DL --> 2 systems)
 3 - tier (PL, BL, DY --3 OR N systems)
 
+1) Front end(Presentation layer)
+2) Application Layer(Business Logic)
+3) Backend (Data Layer)
+
 API & Webservices
 ---------------------
 
@@ -45,3 +49,7 @@ Web services
 
 4) RestAssured API (Automation)
 	Java,TestNG,Maven,Jenkins
+
+1) Basic concepts (Theory)
+2) Postman (Rest & SOAP)
+3) SOAPUI (SOAP & Rest)
