@@ -7,6 +7,11 @@ Agenda
 3) Client Server architecture
 4) What is API & Webservice
 ---------------------
+1) What is Client & Server?
+2) 3 Layers of Application
+3) Client Server architecture
+4) What is API & Webservice
+---------------------
 
 Basic concepts of API & webservices...
 
